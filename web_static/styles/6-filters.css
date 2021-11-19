@@ -45,6 +45,7 @@
     font-size: 1.4rem;
 }
 .popover {
+    background-color: #fafafa;
     visibility: hidden;
     position: relative;
     width: calc(100% + 30px);
@@ -60,4 +61,7 @@
 }
 .popover ul {
     list-style: none;
+}
+.filters .btn:hover {
+    opacity: 90%;
 }

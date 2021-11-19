@@ -14,5 +14,6 @@ body {
     margin-block-start: 30px;
     margin-block-end: 30px;
     display: flex;
+    flex-direction: column;
     align-items: center;
 }

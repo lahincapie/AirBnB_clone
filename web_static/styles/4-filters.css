@@ -19,3 +19,6 @@
     position: absolute;
     right: 30px;
 }
+.filters .btn:hover {
+    opacity: 90%;
+}
